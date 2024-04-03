@@ -1,3 +1,5 @@
 export const header = {
-  start: "Sign In",
+  tabs: {
+    blog: "Blog",
+  },
 };
